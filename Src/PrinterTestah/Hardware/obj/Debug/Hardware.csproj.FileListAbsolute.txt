@@ -1,0 +1,6 @@
+C:\Users\marwan\Documents\PrinterTestah\Src\PrinterTestah\Hardware\bin\Debug\Hardware.dll
+C:\Users\marwan\Documents\PrinterTestah\Src\PrinterTestah\Hardware\bin\Debug\Hardware.pdb
+C:\Users\marwan\Documents\PrinterTestah\Src\PrinterTestah\Hardware\obj\Debug\Hardware.csproj.AssemblyReference.cache
+C:\Users\marwan\Documents\PrinterTestah\Src\PrinterTestah\Hardware\obj\Debug\Hardware.csproj.CoreCompileInputs.cache
+C:\Users\marwan\Documents\PrinterTestah\Src\PrinterTestah\Hardware\obj\Debug\Hardware.dll
+C:\Users\marwan\Documents\PrinterTestah\Src\PrinterTestah\Hardware\obj\Debug\Hardware.pdb

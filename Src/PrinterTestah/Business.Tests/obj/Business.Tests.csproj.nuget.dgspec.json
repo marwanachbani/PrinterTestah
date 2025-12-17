@@ -1,0 +1,137 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business.Tests\\Business.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business.Tests\\Business.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business.Tests\\Business.Tests.csproj",
+        "projectName": "Business.Tests",
+        "projectPath": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business.Tests\\Business.Tests.csproj",
+        "packagesPath": "C:\\Users\\marwan\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\marwan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business\\Business.csproj": {
+                "projectPath": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business\\Business.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "MSTest": {
+              "target": "Package",
+              "version": "[3.6.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.12.0, )"
+            },
+            "Microsoft.Testing.Extensions.CodeCoverage": {
+              "target": "Package",
+              "version": "[17.12.6, )"
+            },
+            "Microsoft.Testing.Extensions.TrxReport": {
+              "target": "Package",
+              "version": "[1.4.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business\\Business.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business\\Business.csproj",
+        "projectName": "Business",
+        "projectPath": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business\\Business.csproj",
+        "packagesPath": "C:\\Users\\marwan\\.nuget\\packages\\",
+        "projectStyle": "PackagesConfig",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\marwan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Hardware\\Hardware.csproj": {
+                "projectPath": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Hardware\\Hardware.csproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low"
+        },
+        "packagesConfigPath": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business\\packages.config"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    },
+    "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Hardware\\Hardware.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Hardware\\Hardware.csproj",
+        "projectName": "Hardware",
+        "projectPath": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Hardware\\Hardware.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{217B69E1-E836-45A6-8176-2908992E98CF}|Business.Tests\\Business.Tests.csproj|c:\\users\\marwan\\documents\\printertestah\\src\\printertestah\\business.tests\\testmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217B69E1-E836-45A6-8176-2908992E98CF}|Business.Tests\\Business.Tests.csproj|solutionrelative:business.tests\\testmanagertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|c:\\users\\marwan\\documents\\printertestah\\src\\printertestah\\ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|solutionrelative:ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\ui\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|solutionrelative:ui\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|solutionrelative:ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|c:\\users\\marwan\\documents\\printertestah\\src\\printertestah\\ui\\views\\printertestview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|solutionrelative:ui\\views\\printertestview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\ui\\views\\printerlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|solutionrelative:ui\\views\\printerlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\ui\\views\\printerlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|solutionrelative:ui\\views\\printerlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\ui\\viewmodels\\printerlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|solutionrelative:ui\\viewmodels\\printerlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\ui\\views\\printertestview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|solutionrelative:ui\\views\\printertestview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\ui\\viewmodels\\printertestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|solutionrelative:ui\\viewmodels\\printertestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\ui\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{537412B0-21A2-4CA0-AEBB-239FF5EB87BC}|UI\\UI.csproj|solutionrelative:ui\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\marwan\\AppData\\Local\\Temp\\.vsdbgsrc\\cc40e6c9113e8e409e66507b58c06c87fa4d9cf9f4e297b5ae16de018dfbe2c9\\WpfXamlLoader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40481812-7E2A-43FE-BD13-75AD0034CBDD}|Hardware.Tests\\Hardware.Tests.csproj|c:\\users\\marwan\\documents\\printertestah\\src\\printertestah\\hardware.tests\\genericprinteradaptertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40481812-7E2A-43FE-BD13-75AD0034CBDD}|Hardware.Tests\\Hardware.Tests.csproj|solutionrelative:hardware.tests\\genericprinteradaptertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217B69E1-E836-45A6-8176-2908992E98CF}|Business.Tests\\Business.Tests.csproj|c:\\users\\marwan\\documents\\printertestah\\src\\printertestah\\business.tests\\loggingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217B69E1-E836-45A6-8176-2908992E98CF}|Business.Tests\\Business.Tests.csproj|solutionrelative:business.tests\\loggingservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{217B69E1-E836-45A6-8176-2908992E98CF}|Business.Tests\\Business.Tests.csproj|c:\\users\\marwan\\documents\\printertestah\\src\\printertestah\\business.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{217B69E1-E836-45A6-8176-2908992E98CF}|Business.Tests\\Business.Tests.csproj|solutionrelative:business.tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A22B405-9E02-4EE7-BCDA-D1A7830B6957}|Business\\Business.csproj|C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\business\\services\\testmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A22B405-9E02-4EE7-BCDA-D1A7830B6957}|Business\\Business.csproj|solutionrelative:business\\services\\testmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A22B405-9E02-4EE7-BCDA-D1A7830B6957}|Business\\Business.csproj|C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\business\\services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A22B405-9E02-4EE7-BCDA-D1A7830B6957}|Business\\Business.csproj|solutionrelative:business\\services\\loggingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A22B405-9E02-4EE7-BCDA-D1A7830B6957}|Business\\Business.csproj|C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\business\\models\\printerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A22B405-9E02-4EE7-BCDA-D1A7830B6957}|Business\\Business.csproj|solutionrelative:business\\models\\printerinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC35265-EB58-4C00-95D5-BAB8B3121A55}|Hardware\\Hardware.csproj|C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\hardware\\adapters\\genericprinteradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC35265-EB58-4C00-95D5-BAB8B3121A55}|Hardware\\Hardware.csproj|solutionrelative:hardware\\adapters\\genericprinteradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AC35265-EB58-4C00-95D5-BAB8B3121A55}|Hardware\\Hardware.csproj|C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\hardware\\adapters\\iprinteradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AC35265-EB58-4C00-95D5-BAB8B3121A55}|Hardware\\Hardware.csproj|solutionrelative:hardware\\adapters\\iprinteradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrinterTestView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\Views\\PrinterTestView.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Views\\PrinterTestView.xaml.cs",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\Views\\PrinterTestView.xaml.cs",
+              "RelativeToolTip": "UI\\Views\\PrinterTestView.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-17T00:11:06.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "UI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\MainWindow.xaml",
+              "RelativeToolTip": "UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-17T00:12:59.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "UI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAjwBkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:00:16.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestManagerTests.cs",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business.Tests\\TestManagerTests.cs",
+              "RelativeDocumentMoniker": "Business.Tests\\TestManagerTests.cs",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business.Tests\\TestManagerTests.cs",
+              "RelativeToolTip": "Business.Tests\\TestManagerTests.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAASwAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T21:34:36.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PrinterListView.xaml",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\Views\\PrinterListView.xaml",
+              "RelativeDocumentMoniker": "UI\\Views\\PrinterListView.xaml",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\Views\\PrinterListView.xaml",
+              "RelativeToolTip": "UI\\Views\\PrinterListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-16T22:13:19.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "UI\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "UI\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAQwFIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:05:16.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PrinterListView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\Views\\PrinterListView.xaml.cs",
+              "RelativeDocumentMoniker": "UI\\Views\\PrinterListView.xaml.cs",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\Views\\PrinterListView.xaml.cs",
+              "RelativeToolTip": "UI\\Views\\PrinterListView.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:31:41.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PrinterListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\ViewModels\\PrinterListViewModel.cs",
+              "RelativeDocumentMoniker": "UI\\ViewModels\\PrinterListViewModel.cs",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\ViewModels\\PrinterListViewModel.cs",
+              "RelativeToolTip": "UI\\ViewModels\\PrinterListViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:02:00.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PrinterTestView.xaml",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\Views\\PrinterTestView.xaml",
+              "RelativeDocumentMoniker": "UI\\Views\\PrinterTestView.xaml",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\Views\\PrinterTestView.xaml",
+              "RelativeToolTip": "UI\\Views\\PrinterTestView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-12-16T22:19:04.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PrinterTestViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\ViewModels\\PrinterTestViewModel.cs",
+              "RelativeDocumentMoniker": "UI\\ViewModels\\PrinterTestViewModel.cs",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\ViewModels\\PrinterTestViewModel.cs",
+              "RelativeToolTip": "UI\\ViewModels\\PrinterTestViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:07:27.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "UI\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\UI\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "UI\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:01:04.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WpfXamlLoader.cs",
+              "DocumentMoniker": "C:\\Users\\marwan\\AppData\\Local\\Temp\\.vsdbgsrc\\cc40e6c9113e8e409e66507b58c06c87fa4d9cf9f4e297b5ae16de018dfbe2c9\\WpfXamlLoader.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cc40e6c9113e8e409e66507b58c06c87fa4d9cf9f4e297b5ae16de018dfbe2c9\\WpfXamlLoader.cs",
+              "ToolTip": "C:\\Users\\marwan\\AppData\\Local\\Temp\\.vsdbgsrc\\cc40e6c9113e8e409e66507b58c06c87fa4d9cf9f4e297b5ae16de018dfbe2c9\\WpfXamlLoader.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cc40e6c9113e8e409e66507b58c06c87fa4d9cf9f4e297b5ae16de018dfbe2c9\\WpfXamlLoader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T22:43:00.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GenericPrinterAdapterTests.cs",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Hardware.Tests\\GenericPrinterAdapterTests.cs",
+              "RelativeDocumentMoniker": "Hardware.Tests\\GenericPrinterAdapterTests.cs",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Hardware.Tests\\GenericPrinterAdapterTests.cs",
+              "RelativeToolTip": "Hardware.Tests\\GenericPrinterAdapterTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwDIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T21:39:51.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business.Tests\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "Business.Tests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business.Tests\\MSTestSettings.cs",
+              "RelativeToolTip": "Business.Tests\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T21:32:23.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoggingServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business.Tests\\LoggingServiceTests.cs",
+              "RelativeDocumentMoniker": "Business.Tests\\LoggingServiceTests.cs",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business.Tests\\LoggingServiceTests.cs",
+              "RelativeToolTip": "Business.Tests\\LoggingServiceTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T21:31:10.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TestManager.cs",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business\\Services\\TestManager.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\TestManager.cs",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business\\Services\\TestManager.cs",
+              "RelativeToolTip": "Business\\Services\\TestManager.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwCQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:52:43.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoggingService.cs",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business\\Services\\LoggingService.cs",
+              "RelativeDocumentMoniker": "Business\\Services\\LoggingService.cs",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business\\Services\\LoggingService.cs",
+              "RelativeToolTip": "Business\\Services\\LoggingService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:51:51.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PrinterInfo.cs",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business\\Models\\PrinterInfo.cs",
+              "RelativeDocumentMoniker": "Business\\Models\\PrinterInfo.cs",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Business\\Models\\PrinterInfo.cs",
+              "RelativeToolTip": "Business\\Models\\PrinterInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:51:03.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GenericPrinterAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Hardware\\Adapters\\GenericPrinterAdapter.cs",
+              "RelativeDocumentMoniker": "Hardware\\Adapters\\GenericPrinterAdapter.cs",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Hardware\\Adapters\\GenericPrinterAdapter.cs",
+              "RelativeToolTip": "Hardware\\Adapters\\GenericPrinterAdapter.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAgwBcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:47:26.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IPrinterAdapter.cs",
+              "DocumentMoniker": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Hardware\\Adapters\\IPrinterAdapter.cs",
+              "RelativeDocumentMoniker": "Hardware\\Adapters\\IPrinterAdapter.cs",
+              "ToolTip": "C:\\Users\\marwan\\Documents\\PrinterTestah\\Src\\PrinterTestah\\Hardware\\Adapters\\IPrinterAdapter.cs",
+              "RelativeToolTip": "Hardware\\Adapters\\IPrinterAdapter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-16T19:46:13.323Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
